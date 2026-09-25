@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClickBites Full-Stack
 
 This project continues the supplied ClickBites Calbayog City frontend instead of replacing its visual language. The original masonry food-discovery layout, orange branding, filter bar, detail-card concept, and responsive behavior are retained while the hard-coded demo data is replaced by API-backed records.
@@ -100,3 +101,6 @@ If `server\\server.js` or the repair scripts are also missing, replace the old `
 5. **Forgot password:** Gmail + recovery OTP + new password + confirm password.
 
 For real Gmail delivery, configure `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, and `SMTP_FROM` in `.env`. For Gmail, use a Google App Password rather than the normal Gmail password.
+=======
+# Clickbites
+>>>>>>> 4fd4d2513c133fffc133c096aca4fca0ed8b531d
